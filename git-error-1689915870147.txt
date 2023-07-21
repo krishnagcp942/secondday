@@ -1,0 +1,2 @@
+> git checkout -q -b hi --no-track HEAD
+fatal: 'HEAD' is not a commit and a branch 'hi' cannot be created from it
